@@ -1,5 +1,6 @@
 #tuple are ordered,unchangable and allowduplicate values
-x = ("michael","tom","storm","white",33,True,True,)
+x = ("michael","tom","tom","storm","white",33,True,True,)
+print(x)
 print(x[-1])
 print(x[2: ])
 #tuple items are unchangable ,tuple convert into list and make changes and convert into tuple
